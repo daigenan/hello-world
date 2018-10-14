@@ -1,5 +1,6 @@
 hello
 add line 2
+add line 3
 
 class Factory(object):
     def get_model(self, conf, arm_shape):
